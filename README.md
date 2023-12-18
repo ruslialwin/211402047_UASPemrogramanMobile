@@ -1,9 +1,9 @@
-# UAS Pemrograman Mobile
+![Screenshot 2023-12-19 014143](https://github.com/ruslialwin/211402047_UASPemrogramanMobile/assets/127374698/e0b11fd5-06c0-4ad0-aecb-a025c38e5123)# UAS Pemrograman Mobile
 
 Pembuatan UI Aplikasi dengan flutter
 
 # SS Tampilan UI
-![Screenshot 2023-12-19 000604](https://github.com/ruslialwin/211402047_UASPemrogramanMobile/assets/127374698/b3d3afa2-132c-4aa0-81f6-67f54944f4fd)
+![Screenshot 2023-12-19 014143](https://github.com/ruslialwin/211402047_UASPemrogramanMobile/assets/127374698/ca936647-3d89-4ef3-a982-e97c431bade5)
 
 #Badge Android Developer
 ![Screenshot 2023-12-13 131402](https://github.com/ruslialwin/211402047_UASPemrogramanMobile/assets/127374698/eb2895b1-f498-4397-8723-f18a46b4270d)
