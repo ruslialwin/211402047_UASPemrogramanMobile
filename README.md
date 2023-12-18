@@ -2,6 +2,9 @@
 
 Pembuatan UI Aplikasi dengan flutter
 
+# SS Tampilan UI
+![Screenshot 2023-12-19 000604](https://github.com/ruslialwin/211402047_UASPemrogramanMobile/assets/127374698/b3d3afa2-132c-4aa0-81f6-67f54944f4fd)
+
 #Badge Android Developer
 ![Screenshot 2023-12-13 131402](https://github.com/ruslialwin/211402047_UASPemrogramanMobile/assets/127374698/eb2895b1-f498-4397-8723-f18a46b4270d)
 
